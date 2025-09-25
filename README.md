@@ -1,7 +1,9 @@
 # hello-world
+
 Hello World Repository for Git tutorial is an example repository fr the Git tutorial on https://www.w3schools..com
 This repository is built step by step in the tutorial.
 
-It now includes steps for GitHub
+Ahora incluye pasos para GitHUB
 
-Try to fix the branch rename
+Esto es para crear una Branch en el repositorio local para enviarlo a GitHub
+
